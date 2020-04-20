@@ -3,6 +3,7 @@ import { render } from 'react-dom';
 import Hello from './Hello';
 import './style.css';
 
+
 class App extends Component {
   constructor() {
     super();
@@ -18,6 +19,7 @@ class App extends Component {
         <p>
           Blogging while making progressive web apps!
         </p>
+
       </div>
     );
   }
