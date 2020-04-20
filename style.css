@@ -2,10 +2,7 @@ h1, p {
   font-family: cursive;
 }
 
+
 body {
-  width: 100%;
-  height: 400px;
-  background-image: url('images/spacenebula.jpg');
-  background-size: cover;
-  border: 1px solid red;
+  background-image: url('spacenebula.jpg');
 }
